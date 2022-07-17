@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="0" started-at="2022-07-16T13:40:51Z" finished-at="2022-07-16T13:40:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="0" started-at="2022-07-16T13:40:51Z" finished-at="2022-07-16T13:40:51Z">
+      <class name="jitest.tc1">
+        <test-method status="PASS" signature="testc1()[pri:0, instance:jitest.tc1@61862a7f]" name="testc1" duration-ms="0" started-at="2022-07-16T19:10:51Z" finished-at="2022-07-16T19:10:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testc1 -->
+      </class> <!-- jitest.tc1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
